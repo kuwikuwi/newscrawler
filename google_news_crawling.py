@@ -25,7 +25,7 @@ contents_text = []
 result = {}
 
 # Path to save Excel file
-RESULT_PATH = 'C:/Users/kibae/Desktop/google_news_crawling/result'  # Change to your desired path
+RESULT_PATH = '/mnt/c/Users/kibae/Desktop/google_news_crawling/result'  # Change to your desired path
 now = datetime.now()
 
 # Date cleaning function
